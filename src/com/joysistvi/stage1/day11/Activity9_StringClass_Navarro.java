@@ -2,6 +2,7 @@ package com.joysistvi.stage1.day11;
 
 public class Activity9_StringClass_Navarro {
     public static void main(String[] args) {
+
         String country = "Philippines";
 
         // 1. First and last character
